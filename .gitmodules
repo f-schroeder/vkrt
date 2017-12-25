@@ -4,6 +4,18 @@
 [submodule "dependencies/assimp"]
 	path = dependencies/assimp
 	url = https://github.com/assimp/assimp.git
+[submodule "dependencies/shaderc/third_party/googletest"]
+	path = dependencies/shaderc/third_party/googletest
+	url = https://github.com/google/googletest.git
+[submodule "dependencies/shaderc/third_party/glslang"]
+	path = dependencies/shaderc/third_party/glslang
+	url = https://github.com/google/glslang.git
+[submodule "dependencies/shaderc/third_party/spirv-tools"]
+	path = dependencies/shaderc/third_party/spirv-tools
+	url = https://github.com/KhronosGroup/SPIRV-Tools.git
+[submodule "dependencies/shaderc/third_party/spirv-headers"]
+	path = dependencies/shaderc/third_party/spirv-headers
+	url = https://github.com/KhronosGroup/SPIRV-Headers.git
 [submodule "dependencies/shaderc"]
 	path = dependencies/shaderc
 	url = https://github.com/google/shaderc.git
